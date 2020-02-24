@@ -1,6 +1,5 @@
 package com.meiya.demo.histEqualize;
 
-import org.bytedeco.javacpp.opencv_core;
 import org.opencv.core.*;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.CLAHE;
